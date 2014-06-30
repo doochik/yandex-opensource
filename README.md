@@ -3,7 +3,7 @@ Yandex Opensource
 
 List of Yandx opensource teams and projects
 
- * https://github.com/yandex - Main repo
+ * https://github.com/yandex
  * https://github.com/yandex-disk
  * https://github.com/yandex-load
  * https://github.com/YandexMail
