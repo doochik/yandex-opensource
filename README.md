@@ -1,7 +1,7 @@
 Yandex Opensource
 =================
 
-List of Yandx opensource teams and projects:
+List of Yandex opensource teams:
  * https://github.com/yandex
  * https://github.com/yandex-disk
  * https://github.com/yandex-load
@@ -13,6 +13,6 @@ List of Yandx opensource teams and projects:
  * https://github.com/yandex-sysmon
  * https://github.com/yandex-ui
  
-Separeted technologies: 
+List of Yandex opensource projects: 
  * https://github.com/bem
  * https://github.com/cocaine
