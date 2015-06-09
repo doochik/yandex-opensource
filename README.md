@@ -13,6 +13,9 @@ List of Yandex opensource teams:
  * https://github.com/yandex-ui
  
 List of Yandex opensource projects: 
+ * https://github.com/allure-framework
  * https://github.com/bem
  * https://github.com/cocaine
- * https://github.com/allure-framework
+ * https://github.com/enb-make
+ * https://github.com/gemini-testing
+ * https://github.com/yandex-lego
