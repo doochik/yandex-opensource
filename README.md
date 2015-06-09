@@ -8,7 +8,6 @@ List of Yandex opensource teams:
  * https://github.com/YandexMail
  * https://github.com/yandexmobile
  * https://github.com/yandex-money
- * https://github.com/yandex-opensource
  * https://github.com/yandex-qatools
  * https://github.com/yandex-sysmon
  * https://github.com/yandex-ui
